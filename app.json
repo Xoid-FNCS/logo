@@ -1,0 +1,8 @@
+{
+  "name": "Xoid",
+  "description": "?",
+  "repository": "https://github.com/Xoid-FNCS/logo",
+  "logo": "https://raw.githubusercontent.com/Xoid-FNCS/logo/refs/heads/main/27fe0fdf392e34521d5a2b1af3f9eaa5%20(1).png",
+  "keywords": ["school", "math"],
+  "image": "heroku/nodejs"
+}
